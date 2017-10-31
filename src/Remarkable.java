@@ -16,11 +16,25 @@ public class Remarkable {
 		
 		else if(name.equals("Neal")){
 			JOptionPane.showMessageDialog(null, "You are the Best");
+		}
+		else if(name.equals("Tate")) {
+				JOptionPane.showMessageDialog(null, "You are cool");
+		}
+		else if(name.equals("Ian")){
+		JOptionPane.showMessageDialog(null, "You are superb");
+		}
+		else {
+			JOptionPane.showMessageDialog(null, "Sorry, I don't know who you are");
 			
-			else if(name.equals("Tate")){
+		}
+		}
+				
+				
 		}
 			
-	}
 	
-	}
+	
+	
+
+
 
